@@ -13,8 +13,21 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        getprin()
+    }
+    override func prepareForInterfaceBuilder() {
+        
+    }
+    override func viewWillAppear(_ animated: Bool) {
+        
     }
 
-
+    func getprin()  {
+        print("nebilgokdemir")
+    }
+    
+    
+  
 }
+
 
