@@ -18,12 +18,17 @@ class ViewController: UIViewController {
     override func prepareForInterfaceBuilder() {
         
     }
-    override func viewWillAppear(_ animated: Bool) {
-        
-    }
+
 
     func getprin()  {
-        print("nebilgokdemir")
+       
+         print("nebilgokdemir")
+         print("nebilgokdemir")
+         print("nebilgokdemir")
+         print("nebilgokdemir")
+         print("nebilgokdemir")
+         print("nebilgokdemir")
+         print("nebilgokdemir")
     }
     
     
