@@ -31,7 +31,10 @@ class ViewController: UIViewController {
          print("nebilgokdemir")
     }
     
-    
+    override func transition(from fromViewController: UIViewController, to toViewController: UIViewController, duration: TimeInterval, options: UIView.AnimationOptions = [], animations: (() -> Void)?, completion: ((Bool) -> Void)? = nil) {
+        
+        
+    }
   
 }
 
